@@ -7,4 +7,5 @@ To do this, we would utilize certain factors including;
   - Trust in law enforcement
   - Maintenance of infrastructure
   - Access to community services
-We would be using the Linear and Quadratic variants of Discriminant Analysis (LDA & QDA) to divide the dataset into Happy or Unhappy (Which are mutually exclusive), based on the factors stated above.
+
+I would be using the Linear and Quadratic variants of Discriminant Analysis (LDA & QDA) to divide the dataset into Happy or Unhappy (Which are mutually exclusive), based on the factors stated above.
